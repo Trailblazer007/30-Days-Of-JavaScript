@@ -7,5 +7,9 @@ import { countries } from "../data/countries_data.js";
 // console.log(sortedByName);
 
 // sorting the countries by capital
+// let sortedByCapital = countries.sort((a, b) => {
+//   return a.capital < b.capital ? -1 : a.capital > b.capital ? 1 : 0;
+// });
+// console.log(sortedByCapital);
 
 // sorting the countries by population
