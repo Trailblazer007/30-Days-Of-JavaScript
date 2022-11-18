@@ -13,3 +13,5 @@ import { countries } from "../data/countries_data.js";
 // console.log(sortedByCapital);
 
 // sorting the countries by population
+// let sortedByPopulation = countries.sort((a, b) => a.population - b.population);
+// console.log(sortedByPopulation);
