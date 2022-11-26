@@ -64,3 +64,11 @@ import { countries } from "../data/countries_data.js";
 //   return result.sort((a, b) => b.count - a.count).slice(0, number);
 // };
 // console.log(mostSpokenLanguages(countries, 10));
+
+// Use countries_data.js file create a function which create the ten most populated countries
+
+// const mostPopulatedCountries = (arr, number) => {
+//   return arr.sort((a, b) => b.population - a.population).slice(0, number);
+// };
+
+// console.log(mostPopulatedCountries(countries, 10));
